@@ -175,3 +175,10 @@ my_tesla.battery.describe_battery()
 my_tesla.battery.get_range()  #在调用battery里面的方法
 
 #9.4 导入类
+#from car import Car,ElectricCar,Battery
+#导入整个模块
+import car
+#导入模块中所有的类
+#from module_name import *
+#9.4.6 在一个模块中导入另一个模块
+
